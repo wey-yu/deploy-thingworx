@@ -10,3 +10,5 @@
 - run `./deploy.sh`
 
 > Default Login Name: Administrator Password: trUf6yuz2?_Gub" ⚠️ change it
+
+- when the deployment is successful open http://your-domain.cleverapps.io/Thingworx/Composer/index.html
